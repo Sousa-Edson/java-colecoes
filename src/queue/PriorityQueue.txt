@@ -1,0 +1,3 @@
+A prioridade foi definida pelo campo prioridade da classe Tarefa.
+O Comparator garante que os elementos com menor valor no campo prioridade sejam tratados como os de maior prioridade.
+A fila processa as tarefas em ordem crescente de prioridade.

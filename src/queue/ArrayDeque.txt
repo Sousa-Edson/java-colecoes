@@ -1,0 +1,9 @@
+Explicação:
+
+    Como Fila (FIFO):
+        Métodos utilizados: add() para adicionar elementos e poll() para removê-los na ordem em que foram inseridos.
+
+    Como Pilha (LIFO):
+        Métodos utilizados: push() para adicionar elementos e pop() para removê-los na ordem inversa em que foram inseridos.
+
+O ArrayDeque é uma escolha eficiente para operações de inserção e remoção em ambas as extremidades, pois não envolve o custo de redimensionamento constante, como ocorre com listas baseadas em array.
